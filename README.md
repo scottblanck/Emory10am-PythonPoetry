@@ -20,3 +20,13 @@ Period
 One blue egg all summer long
 
 Now gone
+
+
+3rd poem
+Ravi Shankar “Lines on a Skull”
+
+life’s little, our heads
+
+sad. Redeemed and wasting clay
+
+this chance. Be of use.
