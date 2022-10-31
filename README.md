@@ -1,5 +1,5 @@
 # Emory10am-PythonPoetry
-Emory 10am class
+Emory 10am class, teaching the undergrads how to use Git and GitHub.
 
 Insert poetry here:
 
